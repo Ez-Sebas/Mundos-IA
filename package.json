@@ -1,0 +1,17 @@
+{
+  "name": "mundos-ia",
+  "version": "1.0.0",
+  "description": "Genera un mundo a partir de una situación, un mundo y cinco colores usando APIs de texto a imagen.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": ["nodejs", "cli", "ia", "imagenes", "sena"],
+  "author": "Sebastián Zuleta Echavarría",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "object-hash": "^3.0.0"
+  }
+}
