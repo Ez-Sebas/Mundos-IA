@@ -10,7 +10,7 @@
   "keywords": ["nodejs", "cli", "ia", "imagenes", "sena"],
   "author": "Sebastián Zuleta Echavarría",
   "license": "MIT",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "object-hash": "^3.0.0"
   }
